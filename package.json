@@ -1,0 +1,18 @@
+{
+  "name": "defi-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aave/protocol-v2": "^1.0.1",
+    "@uniswap/sdk": "^3.0.3",
+    "ethers": "^6.13.2",
+    "web3": "^4.11.1"
+  }
+}
